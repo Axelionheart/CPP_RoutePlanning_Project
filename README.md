@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the code for the Route Planning project.
+This repo contains the code for the Route Planning project.A c++ project that uses an A* algorithm to find the shortest distance between two points in a map.
 
 <img src="map.png" width="600" height="450" />
 
